@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="get-age" uuid="8072DE40AA8C4B58B572B2CEBED5E858" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>
